@@ -1,6 +1,6 @@
 
-# Kishore Shop
-[Website](https://kishore-shop.herokuapp.com/)
+# MTH Tanjim
+[Website](https://mth-tanjim.web.app/)
 
 
 ## Features
@@ -70,8 +70,8 @@
 
 ### Thank you for visiting my github profile... If you want to know more about me. You can contact with me.
 
-### [Portfolio-site](https://nahidul.netlify.app/)
+### [Portfolio-site](https://mth-tanjim.web.app/)
 
-### Email: nahidkishore99@gmail.com
-### Phone: +8801776180002
+### Email: mthtanjim@gmail.com
+### Phone: 01780692424
 ### Address: Dhaka, Bangladesh
